@@ -21,7 +21,7 @@ namespace ASCOM.MyCloudPWS
     public class Observations
     {
         //[DataMember]
-        //      "stationID": "KAZTUCSO2296",
+        //      "stationID": "KAZBULLH140",
         public string stationID { get; set; }
         //      "obsTimeUtc": "2021-08-21T01:39:39Z",
         public string obsTimeUtc { get; set; }
